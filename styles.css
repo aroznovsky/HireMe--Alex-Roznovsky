@@ -1,0 +1,40 @@
+body {
+    background-color: #E0B0FF;
+    background-image: url(https://www.pinclipart.com/picdir/big/181-1811814_picture-royalty-free-outer-space-meteorite-clip-art.png);
+}
+
+img {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-style: solid;
+    border-color: black #FFFF00;
+}
+
+h1,
+h2 {
+    font-family: Open Sans;
+}
+
+p,
+ul {
+    font-family: Libre Franklin;
+}
+
+a {
+    background-color: #C0C0C0;
+}
+
+.subheading {
+    background-color: #FFE5B4;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.caption{
+    text-align: center;
+    background-color: white;
+}
